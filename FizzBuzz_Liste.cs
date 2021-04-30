@@ -1,10 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-
 class FizzBuzz
 {
-        /*
+    /*
     FizzBuzz :
     if the number is divisible by 3: write Fizz
     if the number is divisible by 5: we write Buzz
