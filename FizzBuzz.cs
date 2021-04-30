@@ -1,13 +1,26 @@
-List<int> collection = new List<int>() { 1, 2, 5, 7, 8, 10 };;
+using System;
+using System.Collections.Generic;
 
-foreach(int x in collection)
+class FizzBuzz
 {
-    if (x % 3 == 0)
+    static void Main(string[] args)
     {
-        Console.Write("Fizz");
-    }
-    if (x % 5 == 0)
-    {
-        Console.Write("Buzz");
+        List<int> collection = new List<int>() { 1, 2, 5, 7, 8, 10 }; ;
+
+        foreach (int x in collection)
+        {
+            if (x % 3 == 0)
+            {
+                Console.WriteLine("Fizz");
+            }
+            if (x % 5 == 0)
+            {
+                Console.WriteLine("Buzz");
+            }
+            else
+            {
+                Console.WriteLine(x);
+            }
+        }
     }
 }
