@@ -10,10 +10,10 @@ class FizzBuzz
     if the number is divisible by 3 and by 5: write Fizzbuzz
     otherwise: write the number
     */
-    
+
     static void Main(string[] args)
     {
-        List<int> collection = new List<int>() { 1, 2, 5, 7, 8, 10, 15 }; ;
+        List<int> collection = new List<int>() { 1, 2, 3, 5, 7, 8, 10, 15, 16 }; ;
 
         foreach (int x in collection)
         {
@@ -25,7 +25,7 @@ class FizzBuzz
             {
                 Console.Write("Buzz");
             }
-            else
+            else if (x % 3 != 0 & x % 5 != 0)
             {
                 Console.Write(x);
             }
