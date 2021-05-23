@@ -18,13 +18,17 @@ C:\Users\steph\Desktop\programme\C#\Sandglass\Minuteur\obj\Debug\Sandglass.cspro
 C:\Users\steph\Desktop\programme\C#\Sandglass\Minuteur\obj\Debug\Sandglass.csproj.CoreCompileInputs.cache
 C:\Users\steph\Desktop\programme\C#\Sandglass\Minuteur\obj\Debug\Minuteur.exe
 C:\Users\steph\Desktop\programme\C#\Sandglass\Minuteur\obj\Debug\Minuteur.pdb
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Minuteur.exe.config
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Minuteur.exe
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Minuteur.pdb
 C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.csprojAssemblyReference.cache
 C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Minuteur.Form1.resources
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Minuteur.Properties.Resources.resources
 C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.csproj.GenerateResource.cache
 C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.csproj.CoreCompileInputs.cache
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Minuteur.exe
-C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Minuteur.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Sandglass.exe.config
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Sandglass.exe.manifest
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Sandglass.application
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Sandglass.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\bin\Debug\Sandglass.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.Properties.Resources.resources
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.exe.manifest
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.application
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Sandglass\Minuteur\obj\Debug\Sandglass.pdb
