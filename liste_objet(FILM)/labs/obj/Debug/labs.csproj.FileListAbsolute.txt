@@ -1,0 +1,21 @@
+C:\Users\steph\Desktop\programme\C#\labs\labs\bin\Debug\labs.exe.config
+C:\Users\steph\Desktop\programme\C#\labs\labs\bin\Debug\labs.exe
+C:\Users\steph\Desktop\programme\C#\labs\labs\bin\Debug\labs.pdb
+C:\Users\steph\Desktop\programme\C#\labs\labs\obj\Debug\labs.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\programme\C#\labs\labs\obj\Debug\labs.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\programme\C#\labs\labs\obj\Debug\labs.exe
+C:\Users\steph\Desktop\programme\C#\labs\labs\obj\Debug\labs.pdb
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\bin\Debug\labs.exe.config
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\bin\Debug\labs.exe
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\bin\Debug\labs.pdb
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\obj\Debug\labs.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\obj\Debug\labs.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\obj\Debug\labs.exe
+C:\Users\steph\Desktop\programme\C#\liste_objet(FILM)\labs\obj\Debug\labs.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\bin\Debug\labs.exe.config
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\bin\Debug\labs.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\bin\Debug\labs.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\obj\Debug\labs.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\obj\Debug\labs.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\obj\Debug\labs.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\liste_objet(FILM)\labs\obj\Debug\labs.pdb
