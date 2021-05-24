@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelName = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -46,6 +46,7 @@
             this.previousPicture = new System.Windows.Forms.Button();
             this.nextPicture = new System.Windows.Forms.Button();
             this.pictureBoxPlayer = new System.Windows.Forms.PictureBox();
+            this.PointLeft = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarDexterity)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarIntelligence)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarStrength)).BeginInit();
@@ -53,19 +54,19 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPlayer)).BeginInit();
             this.SuspendLayout();
             // 
-            // label1
+            // labelName
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(107, 24);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Name :";
+            this.labelName.AutoSize = true;
+            this.labelName.Location = new System.Drawing.Point(107, 28);
+            this.labelName.Name = "labelName";
+            this.labelName.Size = new System.Drawing.Size(41, 13);
+            this.labelName.TabIndex = 0;
+            this.labelName.Text = "Name :";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(444, 51);
+            this.label2.Location = new System.Drawing.Point(444, 63);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(48, 13);
             this.label2.TabIndex = 1;
@@ -74,7 +75,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(444, 112);
+            this.label3.Location = new System.Drawing.Point(444, 124);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(61, 13);
             this.label3.TabIndex = 2;
@@ -83,7 +84,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(444, 176);
+            this.label4.Location = new System.Drawing.Point(444, 188);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 13);
             this.label4.TabIndex = 3;
@@ -92,7 +93,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(444, 240);
+            this.label5.Location = new System.Drawing.Point(444, 252);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(37, 13);
             this.label5.TabIndex = 4;
@@ -100,7 +101,7 @@
             // 
             // trackBarDexterity
             // 
-            this.trackBarDexterity.Location = new System.Drawing.Point(414, 67);
+            this.trackBarDexterity.Location = new System.Drawing.Point(414, 79);
             this.trackBarDexterity.Name = "trackBarDexterity";
             this.trackBarDexterity.Size = new System.Drawing.Size(104, 45);
             this.trackBarDexterity.TabIndex = 5;
@@ -108,7 +109,7 @@
             // 
             // trackBarIntelligence
             // 
-            this.trackBarIntelligence.Location = new System.Drawing.Point(414, 128);
+            this.trackBarIntelligence.Location = new System.Drawing.Point(414, 140);
             this.trackBarIntelligence.Name = "trackBarIntelligence";
             this.trackBarIntelligence.Size = new System.Drawing.Size(104, 45);
             this.trackBarIntelligence.TabIndex = 6;
@@ -116,7 +117,7 @@
             // 
             // trackBarStrength
             // 
-            this.trackBarStrength.Location = new System.Drawing.Point(414, 192);
+            this.trackBarStrength.Location = new System.Drawing.Point(414, 204);
             this.trackBarStrength.Name = "trackBarStrength";
             this.trackBarStrength.Size = new System.Drawing.Size(104, 45);
             this.trackBarStrength.TabIndex = 7;
@@ -124,7 +125,7 @@
             // 
             // trackBarVitality
             // 
-            this.trackBarVitality.Location = new System.Drawing.Point(414, 256);
+            this.trackBarVitality.Location = new System.Drawing.Point(414, 268);
             this.trackBarVitality.Name = "trackBarVitality";
             this.trackBarVitality.Size = new System.Drawing.Size(104, 45);
             this.trackBarVitality.TabIndex = 8;
@@ -132,7 +133,7 @@
             // 
             // Validate
             // 
-            this.Validate.Location = new System.Drawing.Point(443, 360);
+            this.Validate.Location = new System.Drawing.Point(430, 319);
             this.Validate.Name = "Validate";
             this.Validate.Size = new System.Drawing.Size(75, 23);
             this.Validate.TabIndex = 9;
@@ -142,7 +143,7 @@
             // 
             // textBoxName
             // 
-            this.textBoxName.Location = new System.Drawing.Point(154, 21);
+            this.textBoxName.Location = new System.Drawing.Point(154, 25);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(100, 20);
             this.textBoxName.TabIndex = 10;
@@ -150,7 +151,7 @@
             // labelNBdext
             // 
             this.labelNBdext.AutoSize = true;
-            this.labelNBdext.Location = new System.Drawing.Point(524, 67);
+            this.labelNBdext.Location = new System.Drawing.Point(524, 79);
             this.labelNBdext.Name = "labelNBdext";
             this.labelNBdext.Size = new System.Drawing.Size(13, 13);
             this.labelNBdext.TabIndex = 11;
@@ -159,7 +160,7 @@
             // labelNBint
             // 
             this.labelNBint.AutoSize = true;
-            this.labelNBint.Location = new System.Drawing.Point(524, 128);
+            this.labelNBint.Location = new System.Drawing.Point(524, 140);
             this.labelNBint.Name = "labelNBint";
             this.labelNBint.Size = new System.Drawing.Size(13, 13);
             this.labelNBint.TabIndex = 12;
@@ -168,7 +169,7 @@
             // labelNBstrength
             // 
             this.labelNBstrength.AutoSize = true;
-            this.labelNBstrength.Location = new System.Drawing.Point(524, 192);
+            this.labelNBstrength.Location = new System.Drawing.Point(524, 204);
             this.labelNBstrength.Name = "labelNBstrength";
             this.labelNBstrength.Size = new System.Drawing.Size(13, 13);
             this.labelNBstrength.TabIndex = 13;
@@ -177,7 +178,7 @@
             // labelNBvitality
             // 
             this.labelNBvitality.AutoSize = true;
-            this.labelNBvitality.Location = new System.Drawing.Point(524, 256);
+            this.labelNBvitality.Location = new System.Drawing.Point(524, 268);
             this.labelNBvitality.Name = "labelNBvitality";
             this.labelNBvitality.Size = new System.Drawing.Size(13, 13);
             this.labelNBvitality.TabIndex = 14;
@@ -205,17 +206,27 @@
             // 
             // pictureBoxPlayer
             // 
-            this.pictureBoxPlayer.Location = new System.Drawing.Point(98, 112);
+            this.pictureBoxPlayer.Location = new System.Drawing.Point(83, 105);
             this.pictureBoxPlayer.Name = "pictureBoxPlayer";
             this.pictureBoxPlayer.Size = new System.Drawing.Size(206, 189);
             this.pictureBoxPlayer.TabIndex = 17;
             this.pictureBoxPlayer.TabStop = false;
             // 
+            // PointLeft
+            // 
+            this.PointLeft.AutoSize = true;
+            this.PointLeft.Location = new System.Drawing.Point(411, 28);
+            this.PointLeft.Name = "PointLeft";
+            this.PointLeft.Size = new System.Drawing.Size(111, 13);
+            this.PointLeft.TabIndex = 18;
+            this.PointLeft.Text = "You have 20 point left";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(584, 406);
+            this.ClientSize = new System.Drawing.Size(584, 369);
+            this.Controls.Add(this.PointLeft);
             this.Controls.Add(this.pictureBoxPlayer);
             this.Controls.Add(this.nextPicture);
             this.Controls.Add(this.previousPicture);
@@ -233,7 +244,7 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.labelName);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.trackBarDexterity)).EndInit();
@@ -248,7 +259,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelName;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
@@ -266,6 +277,7 @@
         private System.Windows.Forms.Button previousPicture;
         private System.Windows.Forms.Button nextPicture;
         private System.Windows.Forms.PictureBox pictureBoxPlayer;
+        private System.Windows.Forms.Label PointLeft;
     }
 }
 

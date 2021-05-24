@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,7 @@ namespace Character_Selection
 {
     public partial class Form2 : Form
     {
-        string chemin = Application.StartupPath.Remove(Application.StartupPath.Length - 10);
+        private readonly string chemin = new DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.FullName;
         //int NBpicture = 1;
 
         public Form2(Player player1)
