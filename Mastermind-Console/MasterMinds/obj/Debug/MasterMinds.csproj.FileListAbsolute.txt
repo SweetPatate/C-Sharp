@@ -1,0 +1,41 @@
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.exe.config
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.exe
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.pdb
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.csprojResolveAssemblyReference.cache
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.exe
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\bin\Debug\MasterMinds.exe.config
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\bin\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\bin\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\obj\Debug\MasterMinds.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\obj\Debug\MasterMinds.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\obj\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\Masterminds-master\MasterMinds\obj\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe.config
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe.config
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\programme\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe.config
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\bin\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Stéphane-Meresse\MasterMinds\obj\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\bin\Debug\MasterMinds.exe.config
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\bin\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\bin\Debug\MasterMinds.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\obj\Debug\MasterMinds.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\obj\Debug\MasterMinds.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\obj\Debug\MasterMinds.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Mastermind-Console\MasterMinds\obj\Debug\MasterMinds.pdb
