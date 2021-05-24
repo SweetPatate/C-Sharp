@@ -1,0 +1,33 @@
+C:\Users\steph\Desktop\Character Selection\Character Selection\bin\Debug\Character Selection.exe.config
+C:\Users\steph\Desktop\Character Selection\Character Selection\bin\Debug\Character Selection.exe
+C:\Users\steph\Desktop\Character Selection\Character Selection\bin\Debug\Character Selection.pdb
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character Selection.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character_Selection.Form1.resources
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character_Selection.Properties.Resources.resources
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character Selection.exe
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character Selection.pdb
+C:\Users\steph\Desktop\Character Selection\Character Selection\obj\Debug\Character_Selection.Form2.resources
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\bin\Debug\Character Selection.exe.config
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\bin\Debug\Character Selection.exe
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\bin\Debug\Character Selection.pdb
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Form1.resources
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Form2.resources
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Properties.Resources.resources
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character Selection.exe
+C:\Users\steph\Desktop\programme\C#\Character Selection\Character Selection\obj\Debug\Character Selection.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\bin\Debug\Character Selection.exe.config
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\bin\Debug\Character Selection.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\bin\Debug\Character Selection.pdb
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Form1.resources
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Form2.resources
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character_Selection.Properties.Resources.resources
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character Selection.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character Selection.exe
+C:\Users\steph\Desktop\dossier personnel\Programmation\C#\Character Selection\Character Selection\obj\Debug\Character Selection.pdb
